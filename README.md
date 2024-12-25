@@ -11,7 +11,9 @@ Hi, I’m Bhanu Pratap Singh, a passionate Data Scientist and Developer with a s
 📬 Contact Me:
 
 Email: bhanups292004@gmail.com
+
 LinkedIn: www.linkedin.com/in/bpsingh29
+
 GitHub: @SINGHBP29
 
 <!--- 👋 Hi, I’m @SINGHBP29
