@@ -16,6 +16,10 @@ LinkedIn: www.linkedin.com/in/bpsingh29
 
 GitHub: @SINGHBP29
 
+Medium: https://medium.com/@23f1002439
+
+LeetCode: https://leetcode.com/u/BPSMB/
+
 <!--- 👋 Hi, I’m @SINGHBP29
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
