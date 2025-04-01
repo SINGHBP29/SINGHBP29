@@ -10,7 +10,8 @@ Hi, I’m Bhanu Pratap Singh, a passionate Data Scientist and Developer with a s
 🤝
 📬 Contact Me:
 
-PortFolio Website: [bhanu-chwd.onrender.com](https://bhanu-chwd.onrender.com/)
+PortFolio Website: [bhanu-chwd.onrender.com](https://bhanu-chwd.onrender.com/)   -- old version
+                   [Bhanu Pratap Singh]( https://bhanu-gg1d.onrender.com). -- new version
 
 Email: bhanups292004@gmail.com
 
